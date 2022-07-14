@@ -1,6 +1,7 @@
 body{
     background-image: linear-gradient(orange, yellow);
     margin: 0%;
+    padding: 0;
 }
 .abc{
     background-color: #2A1A5E;
